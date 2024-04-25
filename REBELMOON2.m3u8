@@ -1,3 +1,5 @@
-#EXTM3U8
-#EXTINF:-1 tvg-name="[4K] Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="❖ UHD 4K",[4K] Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)
-http://212.102.61.23/deliver/236315.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3MTQwODk0NzB9.eyJ1YyI6IlJtVnlibUZ1WkdGck5BPT0iLCJwYyI6Ik5ESTROVk5HUjFod1luaGwiLCJzdCI6IjIzNjMxNS5tcDQiLCJpcCI6IjE2Ny4yNDkuMTkwLjMxIn0.vyXUCDKRLSBF3Y4CkvtpH2zUKqmHjKgyFnJ-JeMUz8Y&uc=RmVybmFuZGFrNA%3D%3D&pc=NDI4NVNGR1hwYnhl
+#EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3440000,BANDWIDTH=4300000,RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-v1a1/mono.m3u8?token=newbox_8IAQAPP
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=160000,BANDWIDTH=200000,CODECS="mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-a1/mono.m3u8?token=newbox_8IAQAPP
